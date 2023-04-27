@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+body  { font: 100% Verdana, Arial, Helvetica, sans-serif;
+	background: #333; margin: 0; padding: 0;
+	text-align: center;color: #CCC;}
+.twoColFixRtHdr #container {
+	width: 800px;
+	background:none;
+	border: 1px solid #ffffff;
+	text-align: left;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+} 
+H3.mine {
+	color: #ccc;
+	font-family: verdana, sans-serif;
+	font-weight: bold;
+	font-size: 1.1em;
+}	
+p.text {
+	color: #FFFFFF;
+	font-family: tahoma, sans-serif;
+	font-size: 0.7em;
+}
+p.footer {
+	color: #FFFFFF; text-align:center;
+	font-family: tahoma, sans-serif;
+	font-size: 0.7em;
+}
+a:link {
+	color: #CCCCCC;
+}
+a:visited {
+	color: #0066FF;
+}
+
+	
+.twoColFixRtHdr #header {
+	background-color:#000000;
+	width: 800px;
+} 
+.twoColFixRtHdr #header h1 {
+	margin: 0; border: 1px solid #ffffff;
+	padding: 10px 0;}
+.twoColFixRtHdr #sidebar1 {float: right; width: 320px; background: none; padding: 5px 10px 0px 10px;}
+.twoColFixRtHdr #mainContent {
+	margin-top:0px;
+	background:#333;
+	width:800px;
+	height: 566px;
+} 
+.twoColFixRtHdr #footer { padding: 0 10px 0 20px; background:#000000;} 
+.twoColFixRtHdr #footer p {
+	margin: 0;
+	padding: 10px 0;
+	color: #666;
+}
+.fltrt { float: right; margin-left: 8px;}
+
+.fltlft { float: left; margin-right: 8px;}
+.clearfloat {
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;}
