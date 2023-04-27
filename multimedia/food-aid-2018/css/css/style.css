@@ -1,0 +1,136 @@
+/****** variables ******/
+/****** mixins ******/
+/****** elements ******/
+body {
+  margin: 0;
+  background: #1A1C1B; }
+
+#WFP_Map_Container {
+  width: 100vw;
+  height: 100vh;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch; }
+
+#WFP_Map {
+  position: relative;
+  transform-origin: top left; }
+
+.overlay_map_fill {
+  cursor: pointer;
+  opacity: 0; }
+  .overlay_map_fill.active {
+    opacity: 0.63; }
+  .overlay_map_fill.locked {
+    opacity: 1; }
+
+.overlay_map_square {
+  cursor: pointer; }
+  .overlay_map_square.locked, .overlay_map_square.active {
+    fill: #1A1C1B !important; }
+
+/* text */
+#overlay_title {
+  display: none; }
+
+.overlay_text {
+  display: none;
+  z-index: 10;
+  position: absolute;
+  max-width: 50%;
+  border: 1px solid #fff;
+  transform-origin: top left; }
+  .overlay_text h1, .overlay_text ul {
+    margin: 0;
+    font-weight: normal; }
+  .overlay_text h1 {
+    font-family: "karmina", Sans-Serif;
+    background: #27245E;
+    color: #FFF;
+    font-size: 1.5em;
+    border-bottom: 1px solid;
+    border-color: #fff;
+    padding: 20px; }
+    @media (min-device-width: 813px) {
+      .overlay_text h1:after {
+        content: url("../../assets/pin_off.svg");
+        float: right;
+        width: 40px;
+        height: 40px; } }
+  .overlay_text li {
+    color: #FFF;
+    font-size: 0.75em;
+    list-style: square inside;
+    margin: 15px 20px 0px; }
+  .overlay_text b {
+    color: #DC9847;
+    font-weight: normal; }
+  .overlay_text p {
+    font-family: proxima-nova, serif;
+    color: #FFF;
+    font-size: 0.75em;
+    line-height: 2em;
+    text-align: justify;
+    margin-bottom: 0px;
+    background: #1A1C1B;
+    padding: 20px; }
+  .overlay_text.locked, .overlay_text.active {
+    display: block; }
+  .overlay_text.locked h1 {
+    cursor: pointer; }
+    .overlay_text.locked h1:after {
+      content: url("../../assets/pin_on.svg");
+      float: right;
+      width: 40px;
+      height: 40px; }
+    .overlay_text.locked h1:hover:after {
+      content: url("../../assets/pin_off.svg"); }
+  .overlay_text.mobile {
+    display: block;
+    position: fixed;
+    top: auto;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    max-width: 100%;
+    border: none;
+    transform: translate(0px, 100%);
+    transition: transform .5s; }
+    .overlay_text.mobile.active {
+      transform: translate(0px, 0px);
+      transition: transform .5s; }
+    .overlay_text.mobile h1 {
+      font-size: 22px;
+      border: none;
+      padding: 10px; }
+      .overlay_text.mobile h1:after {
+        content: "";
+        float: right;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-top: 10px solid #fff;
+        margin-top: 8px; }
+    .overlay_text.mobile li {
+      font-size: 14px;
+      margin: 10px; }
+    .overlay_text.mobile p {
+      font-size: 12px;
+      padding: 10px; }
+  .overlay_text.landscape h1 {
+    font-size: 16px; }
+  .overlay_text.landscape li {
+    font-size: 12px; }
+  .overlay_text.landscape p {
+    font-size: 8px; }
+
+.overlay_text_bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #333;
+  opacity: 1;
+  z-index: -1; }
+
+.overlay_burkinafaso {
+  display: none; }

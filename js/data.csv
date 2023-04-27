@@ -1,0 +1,163 @@
+development_group,country,column1,column2
+Very High,Denmark,0.9,1
+Very High,Finland,0.6,2
+Very High,Sweden,1.1,3
+Very High,New Zealand,1.9,4
+Very High,Netherlands,1.4,5
+Very High,Norway,1,5
+Very High,Switzerland,1.4,7
+Very High,Singapore,0.4,8
+Very High,Canada,2.7,9
+Very High,Germany,1.9,10
+Very High,Luxembourg,0.7,10
+Very High,UK,2,10
+Very High,Australia,2.3,13
+Very High,Iceland,1.1,13
+Very High,Belgium,1.2,15
+Very High,Austria,1.7,16
+Very High,USA,3.2,16
+Very High,Ireland,1.5,18
+Very High,Japan,2,18
+Very High,Uruguay,1.7,21
+Very High,Qatar,1.2,22
+Very High,Chile,3,23
+Very High,Estonia,1.1,23
+Very High,France,2.6,23
+Very High,UAE,2,23
+Very High,Bhutan,2.9,27
+Very High,Botswana,3,28
+Very High,Portugal,1.8,28
+Very High,Poland,2,30
+Very High,Cyprus,2.8,32
+Very High,Israel,2.4,32
+Very High,Lithuania,1.4,32
+Very High,Slovenia,1.3,35
+Very High,Spain,2.1,36
+Very High,Czech Republic,1.6,37
+Very High,Korea (South),1.6,37
+Very High,Malta,1.7,37
+Very High,Cape Verde,2.6,40
+Very High,Costa Rica,3.3,40
+Very High,Latvia,1.6,40
+Very High,Seychelles,2.3,40
+Very High,Rwanda,4.4,44
+Very High,Jordan,3.8,45
+Very High,Mauritius,2.2,45
+Very High,Namibia,3.6,45
+Very High,Georgia,3.9,48
+High,Saudi Arabia,2.3,48
+High,Bahrain,0.7,50
+High,Croatia,2.3,50
+High,Hungary,1.9,50
+High,Slovakia,1.8,50
+High,Malaysia,3.4,54
+High,Kuwait,2,55
+High,Cuba,2.5,56
+High,Ghana,2.9,56
+High,Greece,2.5,58
+High,Oman,2.9,60
+High,Italy,2.9,61
+High,Lesotho,3.9,61
+High,Senegal,4.3,61
+High,South Africa,3.7,61
+High,Sao Tome and Principe,1.3,66
+High,FYRM,2.7,66
+High,Turkey,4.7,66
+High,Bulgaria,2.5,69
+High,Jamaica,2.8,69
+High,El Salvador,3.5,72
+High,Mongolia,3.1,72
+High,Panama,3.7,72
+High,Trinidad and Tobago,2,72
+High,Bosnia and Herzegovina,4,76
+High,Brazil,3.3,76
+High,Burkina Faso,4.8,76
+High,India,5.6,76
+High,Thailand,4.3,76
+High,Tunisia,2.7,76
+High,Zambia,4.2,76
+High,Benin,3.5,83
+High,China,4.3,83
+High,Colombia,5.6,83
+High,Liberia,4,83
+High,Sri Lanka,4.2,83
+High,Albania,2.8,88
+High,Algeria,4.7,88
+High,Egypt,4.6,88
+High,Indonesia,4.5,88
+High,Morocco,3.4,88
+High,Peru,4.3,88
+High,Suriname,2.5,88
+High,Armenia,3.2,95
+High,Mali,6.6,95
+High,Mexico,4.9,95
+High,Philippines,5.2,95
+High,Bolivia,3.2,99
+High,Djibouti,4.4,99
+High,Gabon,2.5,99
+Medium,Niger,5.6,99
+Medium,Dominican Republic,3.5,103
+Medium,Ethiopia,6.4,103
+Medium,Moldova,3.3,103
+Medium,Argentina,2.4,107
+Medium,Belarus,1.8,107
+Medium,Ivory Coast,4.5,107
+Medium,Ecuador,4.3,107
+Medium,Togo,3.9,107
+Medium,Honduras,4.4,112
+Medium,Malawi,4.2,112
+Medium,Mauritania,5.1,112
+Medium,Mozambique,5.8,112
+Medium,Vietnam,3.7,112
+Medium,Pakistan,6.7,117
+Medium,Tanzania,4.6,117
+Medium,Azerbaijan,3.8,119
+Medium,Guyana,2.8,119
+Medium,Russia,4.6,119
+Medium,Sierra Leone,4.3,119
+Medium,Gambia,2.9,123
+Medium,Guatemala,5.1,123
+Medium,Kazakhstan,2.1,123
+Medium,Kyrgyzstan,3.3,123
+Medium,Lebanon,5.1,123
+Medium,Madagascar,4.9,123
+Medium,Timor-Leste,4.1,123
+Medium,Cameroon,4.6,130
+Medium,Iran,4.6,130
+Medium,Nepal,5.1,130
+Medium,Nicaragua,4,130
+Medium,Paraguay,2.4,130
+Medium,Ukraine,5.4,130
+Medium,Comoros,2.7,136
+Medium,Nigeria,6.3,136
+Medium,Tajikistan,4,136
+Medium,Bangladesh,5.8,139
+Medium,Guinea,5.1,139
+Medium,Kenya,6.2,139
+Medium,Laos,4.1,139
+Medium,Papua New Guinea,5.1,139
+Low,Uganda,6.4,139
+Low,CAR,8.3,145
+Low,Congo Republic,3.5,146
+Low,Chad,6,147
+Low,DRC,6.9,147
+Low,Myanmar,6.8,147
+Low,Burundi,4.6,150
+Low,Cambodia,3.9,150
+Low,Zimbabwe,4.2,150
+Low,Uzbekistan,3.3,153
+Low,Eritrea,4.8,154
+Low,Syria,6.6,154
+Low,Turkmenistan,3.6,154
+Low,Yemen,7.5,154
+Low,Haiti,6,158
+Low,Guinea-Bissau,4,158
+Low,Venezuela,3.8,158
+Low,Iraq,7.1,161
+Low,Libya,5.9,161
+Low,Angola,4.2,163
+Low,South Sudan,7.9,163
+Low,Sudan,7.2,165
+Low,Afghanistan,7.9,166
+Low,Korea (North),4.4,167
+Low,Somalia,8.7,167

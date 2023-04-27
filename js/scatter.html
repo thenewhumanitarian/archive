@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<style>
+    body {
+        font: 36px sans-serif;
+        color: #FFF;
+    }
+    .axis path,
+    .axis line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+
+    .dot {
+        stroke: #000
+    }
+    .line {
+        stroke: #000;
+        stroke-width: 5px;
+    }
+    .div.tooltip {   
+  position: absolute;           
+  text-align: center;           
+  width: 60px;                  
+  height: 28px;                 
+  padding: 2px;             
+  font: 12px sans-serif;        
+  background: lightsteelblue;   
+  border: 0px;      
+  border-radius: 8px;           
+  pointer-events: none;         
+}
+</style>
+<body>
+<script src="//d3js.org/d3.v4.min.js"></script>
+<script src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js"></script>
+<script src="./automatic-scatter-labelling.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/co/4.1.0/index.min.js"></script>
+<script src="./automatic-label-index.js"></script>
+
+</body>
+</html>
