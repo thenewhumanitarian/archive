@@ -1,0 +1,6 @@
+@media only screen and (max-device-height: 768px)  {
+   .banner-thumbnail-wrapper { 
+     padding-top: 130px !important;
+     padding-bottom: 130px !important;
+   }
+ }

@@ -1,0 +1,1233 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://archive.irinnews.org/multimedia/Italy-France-Migrants" resolutions="1x,2x" timestamp="1514032037163">
+  <folder name="css">
+    <file name="site_global.css" crc="118517131"/>
+    <file name="master_master-1.css" crc="4186370455" ref="index"/>
+    <file name="nomq_preview_master_master-1.css" crc="118773925" ref="index"/>
+    <file name="master_master-2.css" crc="30498475" ref="purgatory-on-the-riviera:no-home-for-refugees-in-rome:the-libyan-migrant-prisons-of-europe-s-making:how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="nomq_preview_master_master-2.css" crc="61144480" ref="purgatory-on-the-riviera:no-home-for-refugees-in-rome:the-libyan-migrant-prisons-of-europe-s-making:how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="purgatory-on-the-riviera.css" crc="3913093370" ref="purgatory-on-the-riviera"/>
+    <file name="nomq_purgatory-on-the-riviera.css" crc="309658418" ref="purgatory-on-the-riviera"/>
+    <file name="no-home-for-refugees-in-rome.css" crc="4008142336" ref="no-home-for-refugees-in-rome"/>
+    <file name="nomq_no-home-for-refugees-in-rome.css" crc="58917119" ref="no-home-for-refugees-in-rome"/>
+    <file name="index.css" crc="445733100" ref="index"/>
+    <file name="nomq_index.css" crc="387367449" ref="index"/>
+    <file name="the-libyan-migrant-prisons-of-europe-s-making.css" crc="148373652" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="nomq_the-libyan-migrant-prisons-of-europe-s-making.css" crc="3874497078" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="how-a-fingerprint-can-change-an-asylum-seeker-s-life.css" crc="336278039" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="nomq_how-a-fingerprint-can-change-an-asylum-seeker-s-life.css" crc="473080038" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:purgatory-on-the-riviera:how-a-fingerprint-can-change-an-asylum-seeker-s-life:no-home-for-refugees-in-rome:the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="museutils.js" crc="3803043152" ref="index:purgatory-on-the-riviera:how-a-fingerprint-can-change-an-asylum-seeker-s-life:no-home-for-refugees-in-rome:the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="whatinput.js" crc="86476730" ref="index:purgatory-on-the-riviera:how-a-fingerprint-can-change-an-asylum-seeker-s-life:no-home-for-refugees-in-rome:the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:purgatory-on-the-riviera:how-a-fingerprint-can-change-an-asylum-seeker-s-life:no-home-for-refugees-in-rome:the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:purgatory-on-the-riviera:how-a-fingerprint-can-change-an-asylum-seeker-s-life:no-home-for-refugees-in-rome:the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:purgatory-on-the-riviera:how-a-fingerprint-can-change-an-asylum-seeker-s-life:no-home-for-refugees-in-rome:the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:purgatory-on-the-riviera:how-a-fingerprint-can-change-an-asylum-seeker-s-life:no-home-for-refugees-in-rome:the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="require.js" crc="4157109226" ref="index:purgatory-on-the-riviera:how-a-fingerprint-can-change-an-asylum-seeker-s-life:no-home-for-refugees-in-rome:the-libyan-migrant-prisons-of-europe-s-making"/>
+  </folder>
+  <folder name="images">
+    <file name="vincent 3 copy.jpg" crc="3930547245" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vincent 3 copy_2x.jpg" crc="326938832" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vincent web dark.jpg" crc="525594843" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background.png" crc="4197141818" seo="true" ref="index:purgatory-on-the-riviera:how-a-fingerprint-can-change-an-asylum-seeker-s-life:no-home-for-refugees-in-rome:the-libyan-migrant-prisons-of-europe-s-making">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="no-home-for-refugees-in-rome" alt=""/>
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+      <caption webpage="the-libyan-migrant-prisons-of-europe-s-making" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background_2x.png" crc="382603035" seo="true" ref="index:purgatory-on-the-riviera:how-a-fingerprint-can-change-an-asylum-seeker-s-life:no-home-for-refugees-in-rome:the-libyan-migrant-prisons-of-europe-s-making">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="no-home-for-refugees-in-rome" alt=""/>
+      <caption webpage="no-home-for-refugees-in-rome" alt=""/>
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+      <caption webpage="the-libyan-migrant-prisons-of-europe-s-making" alt=""/>
+      <caption webpage="the-libyan-migrant-prisons-of-europe-s-making" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+    </file>
+    <file name="u95416-4.png" crc="383202363" ref="index"/>
+    <file name="u95416-4_2x.png" crc="475259788" ref="index"/>
+    <file name="u95417-11.png" crc="522228965" ref="index"/>
+    <file name="u95417-11_2x.png" crc="4151629772" ref="index"/>
+    <file name="downchevrongrey64x63.png" crc="129201091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="downchevrongrey64x63_2x.png" crc="3966804599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="social_tw_sprite.png" crc="3922289204" ref="index:purgatory-on-the-riviera:how-a-fingerprint-can-change-an-asylum-seeker-s-life:no-home-for-refugees-in-rome:the-libyan-migrant-prisons-of-europe-s-making">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="no-home-for-refugees-in-rome" alt=""/>
+      <caption webpage="no-home-for-refugees-in-rome" alt=""/>
+      <caption webpage="no-home-for-refugees-in-rome" alt=""/>
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+      <caption webpage="the-libyan-migrant-prisons-of-europe-s-making" alt=""/>
+      <caption webpage="the-libyan-migrant-prisons-of-europe-s-making" alt=""/>
+      <caption webpage="the-libyan-migrant-prisons-of-europe-s-making" alt=""/>
+      <caption webpage="the-libyan-migrant-prisons-of-europe-s-making" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+    </file>
+    <file name="twitter rotate (color).svg" crc="4099437681" ref="index:purgatory-on-the-riviera:how-a-fingerprint-can-change-an-asylum-seeker-s-life:no-home-for-refugees-in-rome:the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="twitter rotate (color)_poster_u155900.png" crc="4081586687" ref="index:purgatory-on-the-riviera:how-a-fingerprint-can-change-an-asylum-seeker-s-life:no-home-for-refugees-in-rome:the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="msfdarknotextweb.jpg" crc="4125212229" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msfdarknotextweb_2x.jpg" crc="483243994" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msfdarknotextweb2.jpg" crc="483243994" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u142723-13.png" crc="112225940" ref="index"/>
+    <file name="u142723-13_2x.png" crc="3800706692" ref="index"/>
+    <file name="downchevrongrey64x64.png" crc="129201091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="downchevrongrey64x64_2x.png" crc="3966804599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:purgatory-on-the-riviera:how-a-fingerprint-can-change-an-asylum-seeker-s-life:no-home-for-refugees-in-rome:the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="part i button344x223.jpg" crc="225565953" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part ii button345x222.jpg" crc="16428222" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part iii button342x222.jpg" crc="3808309756" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part iv button333x222.jpg" crc="411981340" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb rotate (color).svg" crc="4137661702" ref="index:purgatory-on-the-riviera:how-a-fingerprint-can-change-an-asylum-seeker-s-life:no-home-for-refugees-in-rome:the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="fb rotate (color)_poster_u155991.png" crc="3791845524" ref="index:purgatory-on-the-riviera:how-a-fingerprint-can-change-an-asylum-seeker-s-life:no-home-for-refugees-in-rome:the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u95416-42.png" crc="4042550512" ref="index"/>
+    <file name="u95416-4_2x2.png" crc="4007881807" ref="index"/>
+    <file name="u95417-112.png" crc="411401141" ref="index"/>
+    <file name="u95417-11_2x2.png" crc="4175019468" ref="index"/>
+    <file name="downchevrongrey60x60.png" crc="38199467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="downchevrongrey60x60_2x.png" crc="4251453296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u142723-132.png" crc="435397666" ref="index"/>
+    <file name="u142723-13_2x2.png" crc="3902310648" ref="index"/>
+    <file name="downchevrongrey58x58.png" crc="4282688118" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="downchevrongrey58x58_2x.png" crc="3793649616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part i button344x222.jpg" crc="225565953" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background103x57.png" crc="197784627" seo="true" ref="index:purgatory-on-the-riviera">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background103x57_2x.png" crc="104913329" seo="true" ref="index:purgatory-on-the-riviera">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+    </file>
+    <file name="u95417-113.png" crc="393239812" ref="index"/>
+    <file name="u95417-11_2x3.png" crc="4016271577" ref="index"/>
+    <file name="downchevrongrey.png" crc="3815899603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="downchevrongrey_2x.png" crc="3966804599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u142723-133.png" crc="4217107447" ref="index"/>
+    <file name="u142723-13_2x3.png" crc="4122184595" ref="index"/>
+    <file name="downchevrongrey53x53.png" crc="4126693508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="downchevrongrey53x53_2x.png" crc="3848421874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part i button279x187.jpg" crc="61144504" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part ii button280x187.jpg" crc="104563147" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part iii button277x186.jpg" crc="4078098631" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part iv button279x186.jpg" crc="3819064990" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background65x36.png" crc="69747668" seo="true" ref="index:purgatory-on-the-riviera">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background65x36_2x.png" crc="4197141818" seo="true" ref="index:purgatory-on-the-riviera">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+    </file>
+    <file name="u95416-43.png" crc="4171804753" ref="index"/>
+    <file name="u95416-4_2x3.png" crc="215101819" ref="index"/>
+    <file name="u95417-114.png" crc="256976940" ref="index"/>
+    <file name="u95417-11_2x4.png" crc="4193402485" ref="index"/>
+    <file name="downchevrongrey59x60.png" crc="38199467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="downchevrongrey59x60_2x.png" crc="4251453296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u142723-134.png" crc="84086062" ref="index"/>
+    <file name="u142723-13_2x4.png" crc="4215693045" ref="index"/>
+    <file name="downchevrongrey54x54.png" crc="102406080" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="downchevrongrey54x54_2x.png" crc="4164402314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part i button.jpg" crc="322388997" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part ii button.jpg" crc="164518195" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part iii button.jpg" crc="3912793978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part iv button.jpg" crc="290843165" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u95416-44.png" crc="4170480157" ref="index"/>
+    <file name="u95416-4_2x4.png" crc="4270778107" ref="index"/>
+    <file name="u95417-115.png" crc="139607419" ref="index"/>
+    <file name="u95417-11_2x5.png" crc="87047709" ref="index"/>
+    <file name="downchevrongrey41x41.png" crc="3980503713" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="downchevrongrey41x41_2x.png" crc="4294654016" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u142723-135.png" crc="458892505" ref="index"/>
+    <file name="u142723-13_2x5.png" crc="4284880552" ref="index"/>
+    <file name="downchevrongrey42x42.png" crc="4244929487" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="downchevrongrey42x42_2x.png" crc="4236786926" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part i button283x189.jpg" crc="169677633" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part ii button283x189.jpg" crc="4230648995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part iii button281x189.jpg" crc="4152627967" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part iv button284x189.jpg" crc="4167825267" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background57x32.png" crc="34851586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background57x32_2x.png" crc="4192393420" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u95416-45.png" crc="4170480157" ref="index"/>
+    <file name="u95416-4_2x5.png" crc="4270778107" ref="index"/>
+    <file name="u95417-116.png" crc="193522266" ref="index"/>
+    <file name="u95417-11_2x6.png" crc="3802360756" ref="index"/>
+    <file name="u142723-136.png" crc="4239755192" ref="index"/>
+    <file name="u142723-13_2x6.png" crc="60689728" ref="index"/>
+    <file name="downchevrongrey41x40.png" crc="94926850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="downchevrongrey41x40_2x.png" crc="3815899603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background48x27.png" crc="3933497415" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background48x27_2x.png" crc="4268832121" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u95416-46.png" crc="4170480157" ref="index"/>
+    <file name="u95416-4_2x6.png" crc="4270778107" ref="index"/>
+    <file name="u95417-117.png" crc="4202148334" ref="index"/>
+    <file name="u95417-11_2x7.png" crc="3894110976" ref="index"/>
+    <file name="u142723-137.png" crc="252364461" ref="index"/>
+    <file name="u142723-13_2x7.png" crc="4222629598" ref="index"/>
+    <file name="irin_logo_no_tagline no background43x24.png" crc="338334046" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background43x24_2x.png" crc="523772752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u95416-47.png" crc="4170480157" ref="index"/>
+    <file name="u95416-4_2x7.png" crc="4270778107" ref="index"/>
+    <file name="u95417-118.png" crc="425816625" ref="index"/>
+    <file name="u95417-11_2x8.png" crc="4183347953" ref="index"/>
+    <file name="u142723-138.png" crc="4212927408" ref="index"/>
+    <file name="u142723-13_2x8.png" crc="4190563864" ref="index"/>
+    <file name="downchevrongrey42x41.png" crc="3980503713" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="downchevrongrey42x41_2x.png" crc="4294654016" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u144992-4.png" crc="3771899238" ref="purgatory-on-the-riviera"/>
+    <file name="u144992-4_2x.png" crc="239065727" ref="purgatory-on-the-riviera"/>
+    <file name="u163461-4.png" crc="212742702" ref="purgatory-on-the-riviera"/>
+    <file name="u163461-4_2x.png" crc="3928735623" ref="purgatory-on-the-riviera"/>
+    <file name="u144983-14.png" crc="283321387" ref="purgatory-on-the-riviera"/>
+    <file name="u144983-14_2x.png" crc="4030715977" ref="purgatory-on-the-riviera"/>
+    <file name="u144985-34.png" crc="490841533" ref="purgatory-on-the-riviera"/>
+    <file name="u144985-34_2x.png" crc="3972398305" ref="purgatory-on-the-riviera"/>
+    <file name="u163468-4.png" crc="397550022" ref="purgatory-on-the-riviera"/>
+    <file name="u163468-4_2x.png" crc="83766859" ref="purgatory-on-the-riviera"/>
+    <file name="u144987-25.png" crc="3933778991" ref="purgatory-on-the-riviera"/>
+    <file name="u144987-25_2x.png" crc="341250660" ref="purgatory-on-the-riviera"/>
+    <file name="u163506-4.png" crc="4042018979" ref="purgatory-on-the-riviera"/>
+    <file name="u163506-4_2x.png" crc="3800325929" ref="purgatory-on-the-riviera"/>
+    <file name="u144989-31.png" crc="77205189" ref="purgatory-on-the-riviera"/>
+    <file name="u144989-31_2x.png" crc="4277047873" ref="purgatory-on-the-riviera"/>
+    <file name="u144991-30.png" crc="180932988" ref="purgatory-on-the-riviera"/>
+    <file name="u144991-30_2x.png" crc="4082275526" ref="purgatory-on-the-riviera"/>
+    <file name="u184261.png" crc="162240548" ref="purgatory-on-the-riviera"/>
+    <file name="u184261_2x.png" crc="303018242" ref="purgatory-on-the-riviera"/>
+    <file name="u184261-r.png" crc="3991414210" ref="purgatory-on-the-riviera"/>
+    <file name="u184261-r_2x.png" crc="4030282268" ref="purgatory-on-the-riviera"/>
+    <file name="u144992-42.png" crc="134950916" ref="purgatory-on-the-riviera"/>
+    <file name="u144992-4_2x2.png" crc="3918449182" ref="purgatory-on-the-riviera"/>
+    <file name="u163461-42.png" crc="32625425" ref="purgatory-on-the-riviera"/>
+    <file name="u163461-4_2x2.png" crc="4244639362" ref="purgatory-on-the-riviera"/>
+    <file name="u144983-142.png" crc="54180829" ref="purgatory-on-the-riviera"/>
+    <file name="u144983-14_2x2.png" crc="3919545695" ref="purgatory-on-the-riviera"/>
+    <file name="u163468-42.png" crc="146987881" ref="purgatory-on-the-riviera"/>
+    <file name="u163468-4_2x2.png" crc="4267140002" ref="purgatory-on-the-riviera"/>
+    <file name="u163506-42.png" crc="4062851428" ref="purgatory-on-the-riviera"/>
+    <file name="u163506-4_2x2.png" crc="3901357623" ref="purgatory-on-the-riviera"/>
+    <file name="u1842612.png" crc="3872483844" ref="purgatory-on-the-riviera"/>
+    <file name="u184261_2x2.png" crc="17275077" ref="purgatory-on-the-riviera"/>
+    <file name="u184261-r2.png" crc="4116938624" ref="purgatory-on-the-riviera"/>
+    <file name="u184261-r_2x2.png" crc="3855416363" ref="purgatory-on-the-riviera"/>
+    <file name="u144992-43.png" crc="303848081" ref="purgatory-on-the-riviera"/>
+    <file name="u144992-4_2x3.png" crc="376662866" ref="purgatory-on-the-riviera"/>
+    <file name="u163461-43.png" crc="179843210" ref="purgatory-on-the-riviera"/>
+    <file name="u163461-4_2x3.png" crc="3861475041" ref="purgatory-on-the-riviera"/>
+    <file name="u144983-143.png" crc="374653404" ref="purgatory-on-the-riviera"/>
+    <file name="u144983-14_2x3.png" crc="4079261830" ref="purgatory-on-the-riviera"/>
+    <file name="u163468-43.png" crc="4114062727" ref="purgatory-on-the-riviera"/>
+    <file name="u163468-4_2x3.png" crc="488403214" ref="purgatory-on-the-riviera"/>
+    <file name="u163506-43.png" crc="3874347647" ref="purgatory-on-the-riviera"/>
+    <file name="u163506-4_2x3.png" crc="421942158" ref="purgatory-on-the-riviera"/>
+    <file name="u1842613.png" crc="14004288" ref="purgatory-on-the-riviera"/>
+    <file name="u184261_2x3.png" crc="4013153988" ref="purgatory-on-the-riviera"/>
+    <file name="u184261-r3.png" crc="421610908" ref="purgatory-on-the-riviera"/>
+    <file name="u184261-r_2x3.png" crc="3958305579" ref="purgatory-on-the-riviera"/>
+    <file name="u144992-44.png" crc="449280698" ref="purgatory-on-the-riviera"/>
+    <file name="u144992-4_2x4.png" crc="4212303712" ref="purgatory-on-the-riviera"/>
+    <file name="u163461-44.png" crc="240951989" ref="purgatory-on-the-riviera"/>
+    <file name="u163461-4_2x4.png" crc="366554979" ref="purgatory-on-the-riviera"/>
+    <file name="u144983-144.png" crc="484581176" ref="purgatory-on-the-riviera"/>
+    <file name="u144983-14_2x4.png" crc="4122095013" ref="purgatory-on-the-riviera"/>
+    <file name="u163468-44.png" crc="482918097" ref="purgatory-on-the-riviera"/>
+    <file name="u163468-4_2x4.png" crc="273650214" ref="purgatory-on-the-riviera"/>
+    <file name="u163506-44.png" crc="30717049" ref="purgatory-on-the-riviera"/>
+    <file name="u163506-4_2x4.png" crc="3915526971" ref="purgatory-on-the-riviera"/>
+    <file name="u1842614.png" crc="77058535" ref="purgatory-on-the-riviera"/>
+    <file name="u184261_2x4.png" crc="4235293197" ref="purgatory-on-the-riviera"/>
+    <file name="u184261-r4.png" crc="3822893581" ref="purgatory-on-the-riviera"/>
+    <file name="u184261-r_2x4.png" crc="4239311615" ref="purgatory-on-the-riviera"/>
+    <file name="u144992-45.png" crc="3892049644" ref="purgatory-on-the-riviera"/>
+    <file name="u144992-4_2x5.png" crc="490555879" ref="purgatory-on-the-riviera"/>
+    <file name="u163461-45.png" crc="519618485" ref="purgatory-on-the-riviera"/>
+    <file name="u163461-4_2x5.png" crc="4160814113" ref="purgatory-on-the-riviera"/>
+    <file name="u144983-145.png" crc="3920273435" ref="purgatory-on-the-riviera"/>
+    <file name="u144983-14_2x5.png" crc="136536493" ref="purgatory-on-the-riviera"/>
+    <file name="u163468-45.png" crc="404102309" ref="purgatory-on-the-riviera"/>
+    <file name="u163468-4_2x5.png" crc="436520730" ref="purgatory-on-the-riviera"/>
+    <file name="u163506-45.png" crc="355298367" ref="purgatory-on-the-riviera"/>
+    <file name="u163506-4_2x5.png" crc="276217981" ref="purgatory-on-the-riviera"/>
+    <file name="u1842615.png" crc="4041110240" ref="purgatory-on-the-riviera"/>
+    <file name="u184261_2x5.png" crc="96872882" ref="purgatory-on-the-riviera"/>
+    <file name="u184261-r5.png" crc="4273538035" ref="purgatory-on-the-riviera"/>
+    <file name="u184261-r_2x5.png" crc="355788475" ref="purgatory-on-the-riviera"/>
+    <file name="u144983-146.png" crc="3762012527" ref="purgatory-on-the-riviera"/>
+    <file name="u144983-14_2x6.png" crc="4107259382" ref="purgatory-on-the-riviera"/>
+    <file name="u144992-46.png" crc="4163764530" ref="purgatory-on-the-riviera"/>
+    <file name="u144992-4_2x6.png" crc="247080496" ref="purgatory-on-the-riviera"/>
+    <file name="u163461-46.png" crc="3791937765" ref="purgatory-on-the-riviera"/>
+    <file name="u163461-4_2x6.png" crc="4173087905" ref="purgatory-on-the-riviera"/>
+    <file name="u163468-46.png" crc="3768557574" ref="purgatory-on-the-riviera"/>
+    <file name="u163468-4_2x6.png" crc="386713024" ref="purgatory-on-the-riviera"/>
+    <file name="u163506-46.png" crc="3927313931" ref="purgatory-on-the-riviera"/>
+    <file name="u163506-4_2x6.png" crc="4134246510" ref="purgatory-on-the-riviera"/>
+    <file name="u1842616.png" crc="4041110240" ref="purgatory-on-the-riviera"/>
+    <file name="u184261_2x6.png" crc="96872882" ref="purgatory-on-the-riviera"/>
+    <file name="u184261-r6.png" crc="4273538035" ref="purgatory-on-the-riviera"/>
+    <file name="u184261-r_2x6.png" crc="355788475" ref="purgatory-on-the-riviera"/>
+    <file name="irin_logo_no_tagline no background44x25.png" crc="4198671109" seo="true" ref="purgatory-on-the-riviera">
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background44x25_2x.png" crc="4112276824" seo="true" ref="purgatory-on-the-riviera">
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+    </file>
+    <file name="u144983-147.png" crc="229996194" ref="purgatory-on-the-riviera"/>
+    <file name="u144983-14_2x7.png" crc="280279757" ref="purgatory-on-the-riviera"/>
+    <file name="u144992-47.png" crc="40628889" ref="purgatory-on-the-riviera"/>
+    <file name="u144992-4_2x7.png" crc="3865374204" ref="purgatory-on-the-riviera"/>
+    <file name="u163461-47.png" crc="47805022" ref="purgatory-on-the-riviera"/>
+    <file name="u163461-4_2x7.png" crc="3902516467" ref="purgatory-on-the-riviera"/>
+    <file name="u163468-47.png" crc="462931419" ref="purgatory-on-the-riviera"/>
+    <file name="u163468-4_2x7.png" crc="4276337147" ref="purgatory-on-the-riviera"/>
+    <file name="u163506-47.png" crc="4001595804" ref="purgatory-on-the-riviera"/>
+    <file name="u163506-4_2x7.png" crc="3979073858" ref="purgatory-on-the-riviera"/>
+    <file name="u1842617.png" crc="3780359216" ref="purgatory-on-the-riviera"/>
+    <file name="u184261_2x7.png" crc="4031986421" ref="purgatory-on-the-riviera"/>
+    <file name="u184261-r7.png" crc="107979830" ref="purgatory-on-the-riviera"/>
+    <file name="u184261-r_2x7.png" crc="522823533" ref="purgatory-on-the-riviera"/>
+    <file name="irin_logo_no_tagline no background44x24.png" crc="338334046" seo="true" ref="purgatory-on-the-riviera">
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background44x24_2x.png" crc="242549296" seo="true" ref="purgatory-on-the-riviera">
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+    </file>
+    <file name="u150665-4.png" crc="269707178" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150665-4_2x.png" crc="496880458" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-4.png" crc="3917179583" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-4_2x.png" crc="3783550081" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-46.png" crc="4220821248" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-46_2x.png" crc="3961104934" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-4.png" crc="3878258752" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-4_2x.png" crc="4106711820" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-67.png" crc="248618304" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-67_2x.png" crc="292709905" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-4.png" crc="4052047832" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-4_2x.png" crc="212502778" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-45.png" crc="80119025" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-45_2x.png" crc="535926579" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-4.png" crc="166938866" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-4_2x.png" crc="3980709537" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-46.png" crc="223859842" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-46_2x.png" crc="249174003" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548.png" crc="193905585" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548_2x.png" crc="25522332" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r.png" crc="3943867025" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r_2x.png" crc="3912129357" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958.png" crc="3951110734" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958_2x.png" crc="4141205891" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r.png" crc="4125247677" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r_2x.png" crc="281763" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="irin_logo_no_tagline no background161x89.png" crc="313228247" seo="true" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life">
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+    </file>
+    <file name="u150665-42.png" crc="4208554790" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150665-4_2x2.png" crc="4132047231" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-462.png" crc="3961877785" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-46_2x2.png" crc="3986438563" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-42.png" crc="134899210" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-4_2x2.png" crc="4168636092" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-672.png" crc="257092302" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-67_2x2.png" crc="4085372951" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-42.png" crc="383550781" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-4_2x2.png" crc="166248059" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-452.png" crc="373080160" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-45_2x2.png" crc="4235531603" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-42.png" crc="273180613" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-4_2x2.png" crc="3970896138" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-462.png" crc="4185066916" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-46_2x2.png" crc="221473420" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-42.png" crc="3950556225" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-4_2x2.png" crc="12538014" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u1845482.png" crc="4212139555" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548_2x2.png" crc="72337219" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r2.png" crc="27556514" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r_2x2.png" crc="4264798560" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u1849582.png" crc="266869066" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958_2x2.png" crc="3813759287" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r2.png" crc="4007239986" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r_2x2.png" crc="210355411" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="irin_logo_no_tagline no background130x71.png" crc="4197141818" seo="true" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life">
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+    </file>
+    <file name="u150665-43.png" crc="4291740309" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150665-4_2x3.png" crc="240006579" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-463.png" crc="264255204" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-46_2x3.png" crc="449903872" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-43.png" crc="3953146214" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-4_2x3.png" crc="3951921641" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-673.png" crc="4158606802" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-67_2x3.png" crc="386554039" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-43.png" crc="34312008" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-4_2x3.png" crc="4108185074" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-453.png" crc="331673343" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-45_2x3.png" crc="3781563139" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-43.png" crc="46325980" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-4_2x3.png" crc="98684733" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-463.png" crc="4090553017" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-46_2x3.png" crc="3884525919" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-43.png" crc="94131995" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-4_2x3.png" crc="293347443" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u1845483.png" crc="4212139555" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548_2x3.png" crc="72337219" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r3.png" crc="27556514" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r_2x3.png" crc="4264798560" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u1849583.png" crc="323140430" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958_2x3.png" crc="4123215533" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r3.png" crc="166146535" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r_2x3.png" crc="4226797908" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150665-44.png" crc="4111290731" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150665-4_2x4.png" crc="4227346758" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-464.png" crc="175106845" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-46_2x4.png" crc="137683429" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-44.png" crc="3805802009" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-4_2x4.png" crc="4222173299" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-674.png" crc="446463368" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-67_2x4.png" crc="3873322847" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-44.png" crc="177681560" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-4_2x4.png" crc="101970204" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-454.png" crc="4071020460" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-45_2x4.png" crc="3869669015" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-44.png" crc="156775603" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-4_2x4.png" crc="3957115607" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-464.png" crc="3812606222" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-46_2x4.png" crc="284175399" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-44.png" crc="58747982" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-4_2x4.png" crc="87552297" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u1845484.png" crc="4061239906" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548_2x4.png" crc="3973520048" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r4.png" crc="117315415" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r_2x4.png" crc="4283433105" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u1849584.png" crc="495422925" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958_2x4.png" crc="61615958" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r4.png" crc="22846848" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r_2x4.png" crc="344670665" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="irin_logo_no_tagline no background104x57.png" crc="197784627" seo="true" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life">
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background104x57_2x.png" crc="4264364178" seo="true" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life">
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+    </file>
+    <file name="u150665-45.png" crc="320641910" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150665-4_2x5.png" crc="4256051009" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-465.png" crc="3903069376" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-46_2x5.png" crc="3766570581" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-45.png" crc="4164618165" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-4_2x5.png" crc="525638146" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-675.png" crc="156166395" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-67_2x5.png" crc="4217352998" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-45.png" crc="4096724597" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-4_2x5.png" crc="29065686" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-455.png" crc="239678647" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-45_2x5.png" crc="3939612688" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-45.png" crc="4795510" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-4_2x5.png" crc="516946726" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-465.png" crc="4239498372" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-46_2x5.png" crc="4075198311" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-45.png" crc="431144829" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-4_2x5.png" crc="455044611" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u1845485.png" crc="4061239906" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548_2x5.png" crc="3973520048" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r5.png" crc="117315415" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r_2x5.png" crc="4283433105" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u1849585.png" crc="4073438605" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958_2x5.png" crc="393679546" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r5.png" crc="4140101711" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r_2x5.png" crc="249057348" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150665-46.png" crc="78109762" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150665-4_2x6.png" crc="523238037" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-466.png" crc="282711155" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-46_2x6.png" crc="3923210778" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-46.png" crc="233158941" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-4_2x6.png" crc="406943159" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-676.png" crc="4161855449" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-67_2x6.png" crc="510191092" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-46.png" crc="4093444084" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-4_2x6.png" crc="4165823616" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-456.png" crc="4148762571" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-45_2x6.png" crc="4253300909" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-46.png" crc="325574572" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-4_2x6.png" crc="4000046685" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-466.png" crc="484721378" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-46_2x6.png" crc="4013107192" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-46.png" crc="39677720" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-4_2x6.png" crc="313098456" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u1845486.png" crc="4076070717" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548_2x6.png" crc="4121840660" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r6.png" crc="4285325813" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r_2x6.png" crc="224510168" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u1849586.png" crc="4217282152" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958_2x6.png" crc="4293807958" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r6.png" crc="4112521369" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r_2x6.png" crc="4052057935" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="irin_logo_no_tagline no background74x41.png" crc="4053857818" seo="true" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life">
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background74x41_2x.png" crc="3837300448" seo="true" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life">
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+    </file>
+    <file name="u1845487.png" crc="3763952330" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548_2x7.png" crc="461774111" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r7.png" crc="393085381" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r_2x7.png" crc="4229460249" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u1849587.png" crc="248316814" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958_2x7.png" crc="4231271972" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r7.png" crc="306709862" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r_2x7.png" crc="3780505661" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150665-47.png" crc="29209588" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150665-4_2x7.png" crc="4193991698" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-467.png" crc="3969081025" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-46_2x7.png" crc="4063146967" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-47.png" crc="343955174" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-4_2x7.png" crc="4165408474" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-677.png" crc="4087355617" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-67_2x7.png" crc="157886410" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-47.png" crc="4173450240" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-4_2x7.png" crc="4046720177" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-457.png" crc="249220511" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-45_2x7.png" crc="4168733917" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-47.png" crc="4196128393" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-4_2x7.png" crc="271607956" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-467.png" crc="4032338373" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-46_2x7.png" crc="131907277" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-47.png" crc="107645671" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-4_2x7.png" crc="139889122" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150665-48.png" crc="3885187600" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150665-4_2x8.png" crc="3914667138" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-48.png" crc="3941017869" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-4_2x8.png" crc="359126945" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-468.png" crc="4188749266" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-46_2x8.png" crc="4266308442" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-48.png" crc="3898661256" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-4_2x8.png" crc="479944467" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-678.png" crc="3889533628" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-67_2x8.png" crc="426197477" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-48.png" crc="4248020265" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-4_2x8.png" crc="3794796617" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-458.png" crc="396315076" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-45_2x8.png" crc="4007206402" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-48.png" crc="4161849727" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-4_2x8.png" crc="3956521525" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-468.png" crc="511558103" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-46_2x8.png" crc="3797572464" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u1845488.png" crc="3763952330" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548_2x8.png" crc="461774111" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r8.png" crc="393085381" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r_2x8.png" crc="4229460249" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u1849588.png" crc="342394352" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958_2x8.png" crc="507803864" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r8.png" crc="347894182" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r_2x8.png" crc="402260574" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150665-49.png" crc="4187460152" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150665-4_2x9.png" crc="3856690993" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-49.png" crc="4186804157" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-4_2x9.png" crc="341462360" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-469.png" crc="3962530025" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-46_2x9.png" crc="346151842" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-49.png" crc="102577429" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-4_2x9.png" crc="295213575" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-679.png" crc="35297574" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-67_2x9.png" crc="126079964" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-49.png" crc="4261371076" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-4_2x9.png" crc="4152509745" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-459.png" crc="98662675" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-45_2x9.png" crc="4105555591" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-49.png" crc="408598308" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-4_2x9.png" crc="4090116738" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-469.png" crc="177059799" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-46_2x9.png" crc="267999191" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u1845489.png" crc="440057053" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548_2x9.png" crc="407231582" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r9.png" crc="377495971" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r_2x9.png" crc="3989182070" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u1849589.png" crc="4098324718" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958_2x9.png" crc="292825966" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r9.png" crc="513903873" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r_2x9.png" crc="3817875184" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150435-4.png" crc="4230010779" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150435-4_2x.png" crc="4243547503" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150494-4.png" crc="4052399686" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150494-4_2x.png" crc="4234901018" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150497-13.png" crc="4024692049" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150497-13_2x.png" crc="3912826380" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150504-46.png" crc="4000439804" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150504-46_2x.png" crc="134830499" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164907-4.png" crc="4260139476" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164907-4_2x.png" crc="226326583" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150511-40.png" crc="4044583596" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150511-40_2x.png" crc="3822778449" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164910-4.png" crc="122867936" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164910-4_2x.png" crc="91781448" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150518-19.png" crc="29823178" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150518-19_2x.png" crc="3942279679" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626.png" crc="4056458006" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626_2x.png" crc="130637273" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626-r.png" crc="4055818200" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626-r_2x.png" crc="3906390478" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917.png" crc="446376994" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917_2x.png" crc="435322913" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917-r.png" crc="4178398284" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917-r_2x.png" crc="3797289194" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150435-42.png" crc="4012526485" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150435-4_2x2.png" crc="96281819" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150494-42.png" crc="3912361030" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150494-4_2x2.png" crc="5240914" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150497-132.png" crc="3884218176" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150497-13_2x2.png" crc="79781663" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150504-462.png" crc="143078386" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150504-46_2x2.png" crc="4274859561" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150511-402.png" crc="81017014" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150511-40_2x2.png" crc="3905219573" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164907-42.png" crc="536544218" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164907-4_2x2.png" crc="3768045229" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150518-192.png" crc="163372767" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150518-19_2x2.png" crc="3847162565" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164910-42.png" crc="180542012" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164910-4_2x2.png" crc="3851584326" ref="no-home-for-refugees-in-rome"/>
+    <file name="u1846262.png" crc="122501226" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626_2x2.png" crc="3936708293" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626-r2.png" crc="4174524517" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626-r_2x2.png" crc="451164638" ref="no-home-for-refugees-in-rome"/>
+    <file name="u1849172.png" crc="3889181303" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917_2x2.png" crc="4156855573" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917-r2.png" crc="292312101" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917-r_2x2.png" crc="413525924" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150435-43.png" crc="4254334638" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150435-4_2x3.png" crc="4072361214" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150494-43.png" crc="133669655" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150494-4_2x3.png" crc="3811252846" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150497-133.png" crc="490610157" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150497-13_2x3.png" crc="492451002" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150504-463.png" crc="4084208018" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150504-46_2x3.png" crc="124904368" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150511-403.png" crc="3974632959" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150511-40_2x3.png" crc="479975150" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164907-43.png" crc="4187675479" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164907-4_2x3.png" crc="3960873779" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150518-193.png" crc="4183750800" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150518-19_2x3.png" crc="3776099753" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164910-43.png" crc="3878199343" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164910-4_2x3.png" crc="505372404" ref="no-home-for-refugees-in-rome"/>
+    <file name="u1846263.png" crc="3936544471" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626_2x3.png" crc="176385438" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626-r3.png" crc="344945270" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626-r_2x3.png" crc="325508636" ref="no-home-for-refugees-in-rome"/>
+    <file name="u1849173.png" crc="3859161423" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917_2x3.png" crc="219537869" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917-r3.png" crc="412986924" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917-r_2x3.png" crc="4178141276" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150435-44.png" crc="4136085954" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150435-4_2x4.png" crc="3789356430" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150494-44.png" crc="193007202" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150494-4_2x4.png" crc="402782876" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150497-134.png" crc="4159163099" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150497-13_2x4.png" crc="389697665" ref="no-home-for-refugees-in-rome"/>
+    <file name="u1849174.png" crc="141869576" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917_2x4.png" crc="4051771834" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917-r4.png" crc="4131103500" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917-r_2x4.png" crc="486396515" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150504-464.png" crc="384210163" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150504-46_2x4.png" crc="3819519948" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150511-404.png" crc="509108171" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150511-40_2x4.png" crc="4052096061" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164907-44.png" crc="3973731577" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164907-4_2x4.png" crc="349645105" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150518-194.png" crc="3935375721" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150518-19_2x4.png" crc="4111388158" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164910-44.png" crc="3864683025" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164910-4_2x4.png" crc="387750072" ref="no-home-for-refugees-in-rome"/>
+    <file name="u1846264.png" crc="257616350" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626_2x4.png" crc="3768523626" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626-r4.png" crc="4277844861" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626-r_2x4.png" crc="3812505405" ref="no-home-for-refugees-in-rome"/>
+    <file name="u1846265.png" crc="392294506" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626_2x5.png" crc="380837104" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626-r5.png" crc="283047231" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626-r_2x5.png" crc="385622693" ref="no-home-for-refugees-in-rome"/>
+    <file name="u1849175.png" crc="4080263105" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917_2x5.png" crc="3977689857" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917-r5.png" crc="135514606" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917-r_2x5.png" crc="40739204" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150435-45.png" crc="22142931" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150435-4_2x5.png" crc="3929402559" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150494-45.png" crc="80387572" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150494-4_2x5.png" crc="262815718" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150497-135.png" crc="4141707505" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150497-13_2x5.png" crc="93735129" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150504-465.png" crc="309277786" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150504-46_2x5.png" crc="25362438" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150511-405.png" crc="43629693" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150511-40_2x5.png" crc="281040141" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164907-45.png" crc="53736947" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164907-4_2x5.png" crc="313871622" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150518-195.png" crc="524610093" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150518-19_2x5.png" crc="320037727" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164910-45.png" crc="48758741" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164910-4_2x5.png" crc="3797315966" ref="no-home-for-refugees-in-rome"/>
+    <file name="u1846266.png" crc="392294506" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626_2x6.png" crc="380837104" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626-r6.png" crc="283047231" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626-r_2x6.png" crc="385622693" ref="no-home-for-refugees-in-rome"/>
+    <file name="u1849176.png" crc="379420798" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917_2x6.png" crc="3905110003" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917-r6.png" crc="4124716139" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917-r_2x6.png" crc="3960419009" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150435-46.png" crc="249267955" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150435-4_2x6.png" crc="205435927" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150494-46.png" crc="3850908480" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150494-4_2x6.png" crc="380896793" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150497-136.png" crc="329669300" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150497-13_2x6.png" crc="3805344207" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150504-466.png" crc="226971608" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150504-46_2x6.png" crc="31582875" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150511-406.png" crc="489904583" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150511-40_2x6.png" crc="3927481167" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164907-46.png" crc="4288631710" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164907-4_2x6.png" crc="3937105252" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150518-196.png" crc="32603945" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150518-19_2x6.png" crc="200835409" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164910-46.png" crc="3945472223" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164910-4_2x6.png" crc="56430580" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150435-47.png" crc="4002311640" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150435-4_2x7.png" crc="365411936" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150494-47.png" crc="247990124" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150494-4_2x7.png" crc="4004086037" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150497-137.png" crc="381533801" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150497-13_2x7.png" crc="90371057" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150504-467.png" crc="452257101" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150504-46_2x7.png" crc="4277430306" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164907-47.png" crc="200609053" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164907-4_2x7.png" crc="245633656" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150511-407.png" crc="494529446" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150511-40_2x7.png" crc="3902344715" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164910-47.png" crc="4041707174" ref="no-home-for-refugees-in-rome"/>
+    <file name="u164910-4_2x7.png" crc="4015625968" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150518-197.png" crc="3881841555" ref="no-home-for-refugees-in-rome"/>
+    <file name="u150518-19_2x7.png" crc="74634733" ref="no-home-for-refugees-in-rome"/>
+    <file name="u1846267.png" crc="3927961212" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626_2x7.png" crc="384013021" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626-r7.png" crc="134211107" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184626-r_2x7.png" crc="252731401" ref="no-home-for-refugees-in-rome"/>
+    <file name="u1849177.png" crc="3985417838" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917_2x7.png" crc="3762010652" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917-r7.png" crc="90915548" ref="no-home-for-refugees-in-rome"/>
+    <file name="u184917-r_2x7.png" crc="512824037" ref="no-home-for-refugees-in-rome"/>
+    <file name="u149495-4.png" crc="4283735466" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149495-4_2x.png" crc="16072408" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u163338-4.png" crc="195818677" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u163338-4_2x.png" crc="17204153" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149498-10.png" crc="268109220" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149498-10_2x.png" crc="392803879" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149655-13.png" crc="395362769" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149655-13_2x.png" crc="4128903938" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149662-31.png" crc="231531842" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149662-31_2x.png" crc="362265238" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150161-7.png" crc="3787094553" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150161-7_2x.png" crc="4263404837" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150168-4.png" crc="250548856" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150168-4_2x.png" crc="155204860" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150175-6.png" crc="348079125" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150175-6_2x.png" crc="3904401056" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150189-25.png" crc="4026087615" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150189-25_2x.png" crc="4146917002" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150192-25.png" crc="197247153" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150192-25_2x.png" crc="212749650" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704.png" crc="4212139555" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704_2x.png" crc="72337219" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704-r.png" crc="27556514" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704-r_2x.png" crc="4264798560" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102.png" crc="4115033937" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102_2x.png" crc="333417303" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102-r.png" crc="3927133611" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102-r_2x.png" crc="217088379" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149495-42.png" crc="3857818774" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149495-4_2x2.png" crc="474576440" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149498-102.png" crc="407879815" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149498-10_2x2.png" crc="3768033958" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149655-132.png" crc="194780815" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149655-13_2x2.png" crc="3869273856" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u163338-42.png" crc="440215837" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u163338-4_2x2.png" crc="4270958259" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u1841022.png" crc="117651118" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102_2x2.png" crc="4099842037" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102-r2.png" crc="414767333" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102-r_2x2.png" crc="3939993614" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149662-312.png" crc="4208190916" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149662-31_2x2.png" crc="4285678528" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150161-72.png" crc="3925716550" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150161-7_2x2.png" crc="479747804" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150168-42.png" crc="3758614592" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150168-4_2x2.png" crc="237213836" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150175-62.png" crc="4003710155" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150175-6_2x2.png" crc="4120672933" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150189-252.png" crc="3964735522" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150189-25_2x2.png" crc="4131257729" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150192-252.png" crc="3876081036" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150192-25_2x2.png" crc="243512016" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u1847042.png" crc="4212139555" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704_2x2.png" crc="72337219" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704-r2.png" crc="27556514" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704-r_2x2.png" crc="4264798560" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149495-43.png" crc="402182358" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149495-4_2x3.png" crc="4146527253" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149498-103.png" crc="4196492506" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149498-10_2x3.png" crc="387758641" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u163338-43.png" crc="510633286" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u163338-4_2x3.png" crc="3879104273" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149655-133.png" crc="395803237" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149655-13_2x3.png" crc="261529158" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149662-313.png" crc="4006024195" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149662-31_2x3.png" crc="73901753" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150161-73.png" crc="4156692757" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150161-7_2x3.png" crc="4143239002" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150168-43.png" crc="4204230079" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150168-4_2x3.png" crc="534218476" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150175-63.png" crc="44615754" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150175-6_2x3.png" crc="3797546221" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150189-253.png" crc="378336008" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150189-25_2x3.png" crc="44111063" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150192-253.png" crc="3909558923" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150192-25_2x3.png" crc="3962929316" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u1847043.png" crc="4212139555" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704_2x3.png" crc="72337219" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704-r3.png" crc="27556514" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704-r_2x3.png" crc="4264798560" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u1841023.png" crc="342118295" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102_2x3.png" crc="3971167575" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102-r3.png" crc="457209335" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102-r_2x3.png" crc="3936110644" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149495-44.png" crc="384413317" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149495-4_2x4.png" crc="4121220150" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149498-104.png" crc="180752130" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149498-10_2x4.png" crc="3986802726" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u163338-44.png" crc="396594858" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u163338-4_2x4.png" crc="3936301245" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149655-134.png" crc="3883985263" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149655-13_2x4.png" crc="4037179931" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149662-314.png" crc="4021432050" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149662-31_2x4.png" crc="3886734853" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150161-74.png" crc="4117676239" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150161-7_2x4.png" crc="76992609" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150168-44.png" crc="3926626882" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150168-4_2x4.png" crc="141209705" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150175-64.png" crc="4170843420" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150175-6_2x4.png" crc="392119173" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150189-254.png" crc="353032323" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150189-25_2x4.png" crc="30194502" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150192-254.png" crc="4116421523" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150192-25_2x4.png" crc="373487381" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u1847044.png" crc="4212139555" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704_2x4.png" crc="72337219" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704-r4.png" crc="27556514" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704-r_2x4.png" crc="4264798560" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u1841024.png" crc="4128391834" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102_2x4.png" crc="4030326012" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102-r4.png" crc="4236106023" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102-r_2x4.png" crc="4231014055" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="irin_logo_no_tagline no background83x46.png" crc="3862794054" seo="true" ref="the-libyan-migrant-prisons-of-europe-s-making">
+      <caption webpage="the-libyan-migrant-prisons-of-europe-s-making" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background83x46_2x.png" crc="221026561" seo="true" ref="the-libyan-migrant-prisons-of-europe-s-making">
+      <caption webpage="the-libyan-migrant-prisons-of-europe-s-making" alt=""/>
+    </file>
+    <file name="u149495-45.png" crc="18403004" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149495-4_2x5.png" crc="4263068767" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149498-105.png" crc="476626120" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149498-10_2x5.png" crc="113921841" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u163338-45.png" crc="3871773831" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u163338-4_2x5.png" crc="429673854" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149655-135.png" crc="3854257664" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149655-13_2x5.png" crc="99672925" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149662-315.png" crc="164322942" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149662-31_2x5.png" crc="372203247" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150161-75.png" crc="120815170" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150161-7_2x5.png" crc="488791978" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150168-45.png" crc="3814345561" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150168-4_2x5.png" crc="251351631" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150175-65.png" crc="4211359938" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150175-6_2x5.png" crc="433839475" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150189-255.png" crc="237078766" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150189-25_2x5.png" crc="3908814528" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150192-255.png" crc="4029723657" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150192-25_2x5.png" crc="135100359" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u1847045.png" crc="301097516" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704_2x5.png" crc="439407343" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704-r5.png" crc="11367727" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704-r_2x5.png" crc="178941751" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u1841025.png" crc="376880086" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102_2x5.png" crc="142700360" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102-r5.png" crc="3785211985" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102-r_2x5.png" crc="4163228868" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149495-46.png" crc="341730887" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149495-4_2x6.png" crc="3880660769" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149498-106.png" crc="417847289" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149498-10_2x6.png" crc="3948145856" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u163338-46.png" crc="4036759633" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u163338-4_2x6.png" crc="4095436034" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149655-136.png" crc="4051893999" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149655-13_2x6.png" crc="120791900" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149662-316.png" crc="449643602" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149662-31_2x6.png" crc="4279466546" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150161-76.png" crc="200929449" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150161-7_2x6.png" crc="4120618684" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150168-46.png" crc="155534455" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150168-4_2x6.png" crc="34892127" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150175-66.png" crc="22715782" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150175-6_2x6.png" crc="56767845" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150189-256.png" crc="4194410513" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150189-25_2x6.png" crc="3846666319" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150192-256.png" crc="4181052218" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150192-25_2x6.png" crc="351732413" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u1847046.png" crc="474590900" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704_2x6.png" crc="4266898474" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704-r6.png" crc="3915994" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704-r_2x6.png" crc="4240423170" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u1841026.png" crc="100078561" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102_2x6.png" crc="3843416097" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102-r6.png" crc="3840769857" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102-r_2x6.png" crc="3835671088" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149495-47.png" crc="436284978" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149495-4_2x7.png" crc="455039659" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149498-107.png" crc="4218233167" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149498-10_2x7.png" crc="4293926068" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149655-137.png" crc="4121429656" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149655-13_2x7.png" crc="458605357" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149662-317.png" crc="235647366" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149662-31_2x7.png" crc="3978819832" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150161-77.png" crc="4200855544" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150161-7_2x7.png" crc="371915305" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u163338-47.png" crc="184720581" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u163338-4_2x7.png" crc="3873620483" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u1847047.png" crc="4159891603" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704_2x7.png" crc="432850859" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704-r7.png" crc="32369218" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704-r_2x7.png" crc="224166067" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150168-47.png" crc="4231091569" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150168-4_2x7.png" crc="4285404430" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150175-67.png" crc="3960906819" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150175-6_2x7.png" crc="3826499869" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150189-257.png" crc="3759193918" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150189-25_2x7.png" crc="4196153958" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150192-257.png" crc="176500410" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150192-25_2x7.png" crc="154655667" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u1841027.png" crc="158883042" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102_2x7.png" crc="4070369911" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102-r7.png" crc="3880503893" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102-r_2x7.png" crc="3929721004" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="irin_logo_no_tagline no background51x28.png" crc="4020328066" seo="true" ref="the-libyan-migrant-prisons-of-europe-s-making">
+      <caption webpage="the-libyan-migrant-prisons-of-europe-s-making" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background51x28_2x.png" crc="4226163409" seo="true" ref="the-libyan-migrant-prisons-of-europe-s-making">
+      <caption webpage="the-libyan-migrant-prisons-of-europe-s-making" alt=""/>
+    </file>
+    <file name="u149495-48.png" crc="32457036" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149495-4_2x8.png" crc="4081325666" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149498-108.png" crc="262161656" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149498-10_2x8.png" crc="9665549" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149655-138.png" crc="4255262410" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149655-13_2x8.png" crc="4127939096" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149662-318.png" crc="177626982" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149662-31_2x8.png" crc="3976375906" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150161-78.png" crc="3873502277" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150161-7_2x8.png" crc="4092476851" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u163338-48.png" crc="223456811" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u163338-4_2x8.png" crc="7949507" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u1847048.png" crc="490319768" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704_2x8.png" crc="180766395" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704-r8.png" crc="3841835849" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704-r_2x8.png" crc="39062601" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150168-48.png" crc="3828023737" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150168-4_2x8.png" crc="341683428" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150175-68.png" crc="14126395" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150175-6_2x8.png" crc="155444361" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150189-258.png" crc="3877161078" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150189-25_2x8.png" crc="4283892382" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150192-258.png" crc="4251606057" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150192-25_2x8.png" crc="472785481" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u1841028.png" crc="3868284846" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102_2x8.png" crc="4112123892" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102-r8.png" crc="4072462696" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102-r_2x8.png" crc="71536230" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149495-49.png" crc="438727454" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149495-4_2x9.png" crc="4090109174" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u163338-49.png" crc="519059048" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u163338-4_2x9.png" crc="4159373395" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149498-109.png" crc="4148921937" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149498-10_2x9.png" crc="496300961" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149655-139.png" crc="4117565218" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149655-13_2x9.png" crc="4091726903" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149662-319.png" crc="167559756" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u149662-31_2x9.png" crc="3774839116" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150161-79.png" crc="3916036269" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150161-7_2x9.png" crc="162532968" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150168-49.png" crc="202716102" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150168-4_2x9.png" crc="3764089018" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150175-69.png" crc="4267202455" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150175-6_2x9.png" crc="178300767" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150189-259.png" crc="526422762" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150189-25_2x9.png" crc="451863639" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150192-259.png" crc="3917307679" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u150192-25_2x9.png" crc="3949109906" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u1847049.png" crc="3917485172" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704_2x9.png" crc="368870092" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704-r9.png" crc="3955907703" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184704-r_2x9.png" crc="122568640" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u1841029.png" crc="256211289" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102_2x9.png" crc="4214001713" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102-r9.png" crc="3849372967" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="u184102-r_2x9.png" crc="64726164" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="home-favicon.ico" crc="432359950" ref="index"/>
+    <file name="purgatory-on-the-riviera-favicon.ico" crc="432359950" ref="purgatory-on-the-riviera"/>
+    <file name="how-a-fingerprint-can-change-an-asylum-seeker-s-life-favicon.ico" crc="432359950" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="no-home-for-refugees-in-rome-favicon.ico" crc="432359950" ref="no-home-for-refugees-in-rome"/>
+    <file name="the-libyan-migrant-prisons-of-europe-s-making-favicon.ico" crc="432359950" ref="the-libyan-migrant-prisons-of-europe-s-making"/>
+    <file name="irin_logo_no_tagline no background55x30.png" crc="4170681364" seo="true" ref="purgatory-on-the-riviera">
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background55x30_2x.png" crc="4082468381" seo="true" ref="purgatory-on-the-riviera">
+      <caption webpage="purgatory-on-the-riviera" alt=""/>
+    </file>
+    <file name="u144983-148.png" crc="3951423247" ref="purgatory-on-the-riviera"/>
+    <file name="u144983-14_2x8.png" crc="3778461698" ref="purgatory-on-the-riviera"/>
+    <file name="u144992-48.png" crc="25517518" ref="purgatory-on-the-riviera"/>
+    <file name="u144992-4_2x8.png" crc="3916809678" ref="purgatory-on-the-riviera"/>
+    <file name="u163461-48.png" crc="285580290" ref="purgatory-on-the-riviera"/>
+    <file name="u163461-4_2x8.png" crc="4245745305" ref="purgatory-on-the-riviera"/>
+    <file name="u163468-48.png" crc="220511774" ref="purgatory-on-the-riviera"/>
+    <file name="u163468-4_2x8.png" crc="444026400" ref="purgatory-on-the-riviera"/>
+    <file name="u163506-48.png" crc="315938537" ref="purgatory-on-the-riviera"/>
+    <file name="u163506-4_2x8.png" crc="3761082918" ref="purgatory-on-the-riviera"/>
+    <file name="u1842618.png" crc="3780359216" ref="purgatory-on-the-riviera"/>
+    <file name="u184261_2x8.png" crc="4031986421" ref="purgatory-on-the-riviera"/>
+    <file name="u184261-r8.png" crc="107979830" ref="purgatory-on-the-riviera"/>
+    <file name="u184261-r_2x8.png" crc="522823533" ref="purgatory-on-the-riviera"/>
+    <file name="irin_logo_no_tagline no background54x30.png" crc="4246521460" seo="true" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life">
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background54x30_2x.png" crc="152633056" seo="true" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life">
+      <caption webpage="how-a-fingerprint-can-change-an-asylum-seeker-s-life" alt=""/>
+    </file>
+    <file name="u150665-410.png" crc="3962775578" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150665-4_2x10.png" crc="4073384570" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-410.png" crc="4083388217" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u163407-4_2x10.png" crc="3979647781" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-4610.png" crc="4018692427" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150668-46_2x10.png" crc="318181738" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-410.png" crc="3882358795" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164970-4_2x10.png" crc="112749181" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-6710.png" crc="3835739010" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150675-67_2x10.png" crc="3863226318" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-410.png" crc="248757644" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164973-4_2x10.png" crc="306732360" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-4510.png" crc="187345447" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150682-45_2x10.png" crc="3956523250" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-410.png" crc="4268316049" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u164976-4_2x10.png" crc="4126943736" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-4610.png" crc="4155686639" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u150689-46_2x10.png" crc="3825040833" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u18454810.png" crc="440057053" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548_2x10.png" crc="407231582" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r10.png" crc="377495971" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184548-r_2x10.png" crc="3989182070" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u18495810.png" crc="4117436005" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958_2x10.png" crc="3889640885" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r10.png" crc="3956229734" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+    <file name="u184958-r_2x10.png" crc="4167801529" ref="how-a-fingerprint-can-change-an-asylum-seeker-s-life"/>
+  </folder>
+  <file name="index.html" crc="435789465" seo="true" mt="1513983490732" redirect="true"/>
+  <file name="purgatory-on-the-riviera.html" crc="409843076" seo="true" mt="1514031003897" redirect="true"/>
+  <file name="how-a-fingerprint-can-change-an-asylum-seeker-s-life.html" crc="3959889911" seo="true" mt="1514030707730" redirect="true"/>
+  <file name="no-home-for-refugees-in-rome.html" crc="4264186059" seo="true" mt="1514030529682" redirect="true"/>
+  <file name="the-libyan-migrant-prisons-of-europe-s-making.html" crc="507770154" seo="true" mt="1514028355229" redirect="true"/>
+</manifest>

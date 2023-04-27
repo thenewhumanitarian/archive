@@ -1,0 +1,206 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://archive.irinnews.org/multimedia/Food-Aid-2018" resolutions="1x" timestamp="1516574895630">
+  <folder name="css">
+    <file name="site_global.css" crc="3798508206"/>
+    <file name="master_master.css" crc="92544936" ref="index"/>
+    <file name="nomq_preview_master_master.css" crc="4241956314" ref="index"/>
+    <file name="index.css" crc="3819336269" ref="index"/>
+    <file name="nomq_index.css" crc="4139729703" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="278381782" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="432359950" ref="index"/>
+    <file name="header.jpg" crc="3795631177" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="irin_logo_no_tagline no background.png" crc="494568491" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="northkorea2.jpg" crc="360805548" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yemen2.jpg" crc="155317160" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="southsudan.jpg" crc="363684947" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u90229-10.png" crc="4253214651" ref="index"/>
+    <file name="e21b9178-2-crop-u84428.jpg" crc="3779408700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="e21b9260-2-crop-u84581.jpg" crc="3842784591" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9306-2-crop-u84656.jpg" crc="3786072212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9322-2-crop-u84731.jpg" crc="471863176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="congo2.jpg" crc="3857293661" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gwenn dubourthoumieu irin.jpg" crc="459928138" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gwenn dubourthoumieu irin-u110706-r-fr.jpg" crc="16823444" ref="index"/>
+    <file name="myanmar.jpg" crc="429337180" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u109228-4.png" crc="373203444" ref="index"/>
+    <file name="social_tw_sprite.png" crc="3922289204" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter rotate (color).svg" crc="4099437681" ref="index"/>
+    <file name="twitter rotate (color)_poster_u105694.png" crc="4081586687" ref="index"/>
+    <file name="irin_logo_no_tagline no background2.png" crc="3909545622" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb rotate (color).svg" crc="4137661702" ref="index"/>
+    <file name="fb rotate (color)_poster_u105716.png" crc="3791845524" ref="index"/>
+    <file name="instagram rotate (color)-01.svg" crc="4149856779" ref="index"/>
+    <file name="instagram rotate (color)-01_poster_u105730.png" crc="4206680293" ref="index"/>
+    <file name="irin_logo_no_tagline no background-crop-u117064.png" crc="9764253" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u90229-102.png" crc="173540517" ref="index"/>
+    <file name="e21b9178-2-crop-u844282.jpg" crc="3920808965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9260-2-crop-u845812.jpg" crc="3796595915" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9306-2-crop-u846562.jpg" crc="3850409026" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9322-2-crop-u847312.jpg" crc="4115093624" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u109228-42.png" crc="474948038" ref="index"/>
+    <file name="u90229-103.png" crc="3880357893" ref="index"/>
+    <file name="e21b9178-2-crop-u844283.jpg" crc="4263306750" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9260-2-crop-u845813.jpg" crc="471791882" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9306-2-crop-u846563.jpg" crc="4011114237" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9322-2-crop-u847313.jpg" crc="82959312" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u109228-43.png" crc="360411297" ref="index"/>
+    <file name="u90229-104.png" crc="198312044" ref="index"/>
+    <file name="e21b9178-2-crop-u844284.jpg" crc="521762125" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9260-2-crop-u845814.jpg" crc="370117501" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9306-2-crop-u846564.jpg" crc="280725275" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9322-2-crop-u847314.jpg" crc="355002855" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gwenn dubourthoumieu irin-u110706-r-fr2.jpg" crc="526969464" ref="index"/>
+    <file name="u109228-44.png" crc="3867568659" ref="index"/>
+    <file name="u90229-105.png" crc="48188169" ref="index"/>
+    <file name="e21b9178-2-crop-u844285.jpg" crc="3934378130" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9260-2-crop-u845815.jpg" crc="3836357257" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9306-2-crop-u846565.jpg" crc="4167387371" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9322-2-crop-u847315.jpg" crc="4009989969" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u109228-45.png" crc="4194027128" ref="index"/>
+    <file name="u90229-106.png" crc="3834434772" ref="index"/>
+    <file name="e21b9178-2-crop-u844286.jpg" crc="471305956" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9260-2-crop-u845816.jpg" crc="60680569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9306-2-crop-u846566.jpg" crc="395837421" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9322-2-crop-u847316.jpg" crc="476551127" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u109228-46.png" crc="3814536816" ref="index"/>
+    <file name="u90229-107.png" crc="384126503" ref="index"/>
+    <file name="e21b9178-2-crop-u844287.jpg" crc="58522878" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9260-2-crop-u845817.jpg" crc="4052814408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9306-2-crop-u846567.jpg" crc="84545753" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9322-2-crop-u847317.jpg" crc="4159218318" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u109228-47.png" crc="470683975" ref="index"/>
+    <file name="northkorea2-u91170-fr.jpg" crc="3824098350" ref="index"/>
+    <file name="yemen2-u90085-fr.jpg" crc="276464684" ref="index"/>
+    <file name="southsudan-u90226-fr.jpg" crc="96946253" ref="index"/>
+    <file name="u90229-108.png" crc="290246468" ref="index"/>
+    <file name="e21b9178-2275x177.jpg" crc="116010680" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9260-2279x177.jpg" crc="109702464" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9306-2266x177.jpg" crc="46525597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e21b9322-2266x177.jpg" crc="3941284144" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="congo2-u90400-fr.jpg" crc="480754971" ref="index"/>
+    <file name="gwenn dubourthoumieu irin-u110706-fr.jpg" crc="128072714" ref="index"/>
+    <file name="myanmar-u90740-fr.jpg" crc="64477011" ref="index"/>
+    <file name="u109228-48.png" crc="3797758534" ref="index"/>
+  </folder>
+  <file name="index.html" crc="263897760" seo="true" mt="1516572585923" redirect="true"/>
+</manifest>
