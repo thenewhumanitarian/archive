@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Mapped: 15 years of aid under fire</title>
+    <meta name="description" content="More than four times as many aid workers were attacked in 2014 than in 2000. For the first time, explore all these incidents on a single interactive map.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- twitter card meta-->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@irinnews">
+    <meta name="twitter:title" content="Mapped: 15 years of aid under fire">
+    <meta name="twitter:description" content="More than four times as many aid workers were attacked in 2014 than in 2000. For the first time, explore all these incidents on a single interactive map.">
+    <meta name="twitter:image:src" content="http://static1.squarespace.com/static/545d219be4b079130f42a75c/t/559a40c4e4b0e6e634cc5556/1436172489057/Screenshot+2015-07-06+11.47.32.png">
+    <!--facebook opengraph-->
+    <meta property="og:locale" content="en_GB">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Mapped: 15 years of aid under fire">
+    <meta property="og:site_name" content="Irin News">
+    <meta property="og:url" content="http://www.irinnews.org/aid-worker-security-map/dataviz.html">
+    <meta property="og:description" content="More than four times as many aid workers were attacked in 2014 than in 2000. For the first time, explore all these incidents on a single interactive map.">
+    <meta property="fb:app_id" content="127212647355336">
+    <meta property="og:type" content="article">
+    <meta property="article:publisher" content="https://www.facebook.com/IRINnews">
+    <meta property="og:image" content="http://static1.squarespace.com/static/545d219be4b079130f42a75c/t/559a40c4e4b0e6e634cc5556/1436172489057/Screenshot+2015-07-06+11.47.32.png">
+    <script src="js/libs.js"></script>
+    <link href="css/libs.css" rel="stylesheet" type="text/css">
+    <link href="css/viz.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <script type="text/javascript">
+      var _sf_startpt=(new Date()).getTime()
+      
+      
+    </script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        if (document.location.hostname.search("irinnews.org") !== -1) {
+          ga('create', 'UA-1171245-1', 'auto');
+          ga('send', 'pageview');
+        }
+    </script>
+  </head>
+  <body>
+    <div id="header" class="text-right">
+      <h1>Aid Worker Attacks</h1>
+      <h2>15 years of data</h2><span><a href="http://newirin.irinnews.org/aid-worker-attacks-map-methodology" target="_blank">Learn more</a></span>
+    </div>
+    <div id="cas"><span id="casualties"> </span></div>
+    <svg id="mapoverlay"></svg>
+    <svg id="timeline"></svg>
+    <div id="message" class="sidebox hidden">
+      <div id="text" class="filter"></div>
+      <div id="textbutton" class="filter">
+        <button class="btn btn-sm btn-default">Continue</button>
+      </div>
+    </div>
+    <div id="sfilters" class="sidebox hidden">
+      <div id="f1" class="filter">
+        <select id="fmeans" data-style="btn-xs btn-default" data-width="150px" class="selectpicker">
+          <option value="all">All Types of Attack</option>
+          <option value="I">IEDs</option>
+          <option value="B">Explosives</option>
+          <option value="S">Shooting or bodily assault</option>
+          <option value="L">Landmine/UXO</option>
+          <option value="R">Sexual Violence</option>
+          <option value="K">Kidnap</option>
+          <option value="U">Unknown</option>
+        </select>
+      </div>
+      <div id="f2" class="filter">
+        <select id="fcontext" data-style="btn-xs btn-default" data-width="150px" class="selectpicker">
+          <option value="all">All Attack Contexts</option>
+          <option value="Am">Ambush/attack on road</option>
+          <option value="C">Combat (or police operations) / Crossfire</option>
+          <option value="IA">Individual attack or assassination</option>
+          <option value="MV">Mob violence, rioting</option>
+          <option value="R">Raid (armed incursion by group)</option>
+          <option value="D">Detention (by official government forces or police)</option>
+          <option value="U">Unknown</option>
+        </select>
+      </div>
+      <div id="f3" class="filter">
+        <select id="flocation" data-style="btn-xs btn-default" data-width="150px" class="selectpicker">
+          <option value="all">All Attack Locations</option>
+          <option value="H">Private home, office or org. residence</option>
+          <option value="PS">Project site</option>
+          <option value="P">Public location</option>
+          <option value="R">Road</option>
+          <option value="C">Custody</option>
+          <option value="U">Unknown</option>
+        </select>
+      </div>
+      <div id="f4" class="filter">
+        <select id="fcountry" data-style="btn-xs btn-default" data-width="150px" class="selectpicker">
+          <option value="all">All Countries</option>
+          <option value="4">Afghanistan</option>
+          <option value="12">Algeria</option>
+          <option value="24">Angola</option>
+          <option value="32">Argentina</option>
+          <option value="51">Armenia</option>
+          <option value="50">Bangladesh</option>
+          <option value="204">Benin</option>
+          <option value="108">Burundi</option>
+          <option value="116">Cambodia</option>
+          <option value="120">Cameroon</option>
+          <option value="140">Central African Republic</option>
+          <option value="148">Chad</option>
+          <option value="170">Colombia</option>
+          <option value="178">Congo</option>
+          <option value="180">DR Congo</option>
+          <option value="222">El Salvador</option>
+          <option value="231">Ethiopia</option>
+          <option value="232">Eritrea</option>
+          <option value="242">Fiji</option>
+          <option value="268">Georgia</option>
+          <option value="320">Guatemala</option>
+          <option value="324">Guinea</option>
+          <option value="328">Guyana</option>
+          <option value="332">Haiti</option>
+          <option value="340">Honduras</option>
+          <option value="356">India</option>
+          <option value="360">Indonesia</option>
+          <option value="368">Iraq</option>
+          <option value="376">Israel</option>
+          <option value="384">Cote D'Ivoire</option>
+          <option value="400">Jordan</option>
+          <option value="404">Kenya</option>
+          <option value="417">Kyrgyzstan</option>
+          <option value="422">Lebanon</option>
+          <option value="426">Lesotho</option>
+          <option value="430">Liberia</option>
+          <option value="434">Libya</option>
+          <option value="450">Madagascar</option>
+          <option value="454">Malawi</option>
+          <option value="466">Mali</option>
+          <option value="478">Mauritania</option>
+          <option value="508">Mozambique</option>
+          <option value="104">Myanmar</option>
+          <option value="524">Nepal</option>
+          <option value="558">Nicaragua</option>
+          <option value="562">Niger</option>
+          <option value="566">Nigeria</option>
+          <option value="586">Pakistan</option>
+          <option value="275">Palestine</option>
+          <option value="598">Papua New Guinea</option>
+          <option value="608">Philippines</option>
+          <option value="643">Russia</option>
+          <option value="646">Rwanda</option>
+          <option value="686">Senegal</option>
+          <option value="694">Sierra Leone</option>
+          <option value="144">Sri Lanka</option>
+          <option value="704">Vietnam</option>
+          <option value="706">Somalia</option>
+          <option value="710">South Africa</option>
+          <option value="716">Zimbabwe</option>
+          <option value="728">South Sudan</option>
+          <option value="729">Sudan</option>
+          <option value="760">Syria</option>
+          <option value="762">Tajikistan</option>
+          <option value="764">Thailand</option>
+          <option value="788">Tunisia</option>
+          <option value="792">Turkey</option>
+          <option value="800">Uganda</option>
+          <option value="804">Ukraine</option>
+          <option value="834">Tanzania</option>
+          <option value="887">Yemen</option>
+          <option value="894">Zambia</option>
+        </select>
+      </div>
+      <div id="f5" class="filter">
+        <select id="forg" data-style="btn-xs btn-default" data-width="150px" class="selectpicker">
+          <option value="all">All Organizations</option>
+          <option value="un">UN</option>
+          <option value="ingo">INGO</option>
+          <option value="lgno_ncrs">LGNO/NCRS</option>
+          <option value="icrc">ICRC</option>
+          <option value="ifrc">IFRC</option>
+          <option value="other">other</option>
+        </select>
+      </div>
+    </div>
+    <div id="controls">
+      <div><span id="date"></span>
+        <button id="skip" class="btn btn-xs btn-default hidden">Skip</button>
+      </div>
+    </div>
+    <div id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" class="modal fade">
+      <div role="document" class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body">In 2000 there were 41 significant attacks on aid workers recorded across the globe. By 2014, it had risen to 190. In those 15 years, over 3,000 aid workers have been killed, injured or kidnapped.<br><br><br>This is the story of each of those attacks.</div>      
+          <div class="modal-footer">
+            <button id="modal-continue" type="button" class="btn btn-default">Continue</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="helpModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" class="modal fade">
+      <div role="document" class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body"><span>Now, explore the data yourself. Click on a country to zoom and see incidences, specify the information using the filters on the right and drag the sliders to the right and left of the timeline to filter by time.</span><br><span id="mobilenote" class="hidden">For optimal experience, view on a larger screen.</span></div>      
+          <div class="modal-footer">
+            <button type="button" data-dismiss="modal" class="btn btn-default">OK</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="slegend" class="sidebox hidden">
+      <svg id="legend"></svg>
+    </div><span id="note2">Made by <a href="http://www.datamaplab.com" target="_blank">Fabian D.</a>&nbsp;with data from <a href="http://aidworkersecurity.org/" target="_blank">AWSD</a></span><span id="note1">&copy;2015 <a href="http://www.irinnews.org" target="_blank">IRIN</a>&nbsp;/ <a href="http://www.humanitarianoutcomes.org" target="_blank">Humanitarian Outcomes</a></span>
+    <script src="js/viz.js"></script>
+    <script type="text/javascript">
+      var _sf_async_config = { uid: 60144, domain: 'irinnews.org', useCanonical: true };
+        (function() {
+        function loadChartbeat() {
+        window._sf_endpt = (new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+        };
+        if (document.location.hostname.search("irinnews.org") !== -1) {
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+          loadChartbeat : function() { oldonload(); loadChartbeat(); };
+          };
+        })();
+      
+    </script>
+    <script type="text/javascript">
+      $.getScript('//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5165551068a72215', function() {
+        // replace the following line with your specific layers configuration
+        addthis.layers({
+          'theme' : 'transparent',
+          'share' : {
+            'mobile': false,
+            'services' : 'tumblr,facebook,twitter,more',
+            'url': 'http://www.irinnews.org/aid-worker-security-map/dataviz.html'
+          }
+         });
+        });
+    </script>
+  </body>
+</html>
